@@ -1,0 +1,20 @@
+# Contact Information
+
+If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out!
+
+## General Inquiries
+- **Email**: meersameer305@gmail.com
+- **Website**: www.sameer.com
+
+## Follow Us
+Stay updated on project developments:
+- **LinkedIn**: linkedin.com/in/SaimMeEr
+- **GitHub**: github.com/SaimMeEr
+
+## Feedback
+We welcome any feedback you may have. Please provide detailed information on your suggestions or issues, including:
+- Steps to reproduce any bugs
+- Screenshots (if applicable)
+- Feature requests
+
+Thank you for your interest in our project!
